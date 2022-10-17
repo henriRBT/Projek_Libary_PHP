@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+
+
+.bg{
+    background-image: url("img/gambar3.jpg");
+    background-color: #f8f9fa;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+*{
+    font-family: "Poppins";
+}
+
+.carousel-caption h1{
+    background-color: rgb(54, 52, 52);
+}
